@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-GameDB/Pods-GameDB-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IGDB-SWIFT-API/IGDB_SWIFT_API.framework
+${BUILT_PRODUCTS_DIR}/Just/Just.framework
+${BUILT_PRODUCTS_DIR}/SwiftProtobuf/SwiftProtobuf.framework
